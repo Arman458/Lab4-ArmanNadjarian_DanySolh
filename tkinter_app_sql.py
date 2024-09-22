@@ -6,7 +6,8 @@ from tkinter import filedialog
 from tkinter import messagebox
 import sqlite3
 
-"""Initializing the connection with the selected database, configuring the graphical user interface, getting a 
+"""
+Initializing the connection with the selected database, configuring the graphical user interface, getting a 
 list of all the courses as it will be used in many places, and creating all the tabs of the application
 """
 conn = sqlite3.connect(filedialog.askopenfilename())
