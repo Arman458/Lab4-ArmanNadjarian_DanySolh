@@ -18,7 +18,7 @@ Each interface allows users to:
 Requirements
 
 Make sure that both Tkinter and PyQt5 libraries are installed, along with SQLite3, which comes pre-installed with Python.
-Running the Tkinter Interface
+
 
 The Tkinter interfac provides a GUI for managing students, instructors, and courses using its own SQLite database.
 Features of the Tkinter Interface:
